@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">recycleview</string>
+    <string name="hint_name">hint_name</string>
+    <string name="hint_telephone">hint_telephone</string>
+    <string name="guardar">Guardar</string>
+    <string name="agregar">agregar</string>
+</resources>
